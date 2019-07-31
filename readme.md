@@ -1,4 +1,4 @@
-##SVG as service
+## SVG as service
 Testing capabilities of the SVG component to be exposed as a service to be called by other tools. This should allow us to scale/balance in the future.
 
 Tried 2 options:
